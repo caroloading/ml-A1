@@ -31,8 +31,8 @@ The obtained Jaccard indexes after this improvement were 0.1378 for the simple m
 
 ### Figure 1: 
 
-[Figure showing golden mask as only 0s](resize_before_mask.png "Figure 1")
+![Figure showing golden mask as only 0s](resize_before_mask.png "Figure 1")
 
 ### Figure 2: 
 
-[Figure showing golden mask after resizing](resize_after_mask.png "Figure 2")
+![Figure showing golden mask after resizing](resize_after_mask.png "Figure 2")
