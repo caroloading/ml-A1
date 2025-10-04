@@ -1,3 +1,5 @@
+# REPORT - Caroline Grand-Clement
+
 ## Part 1:
 
     It was a challenge to understand how to work with the data we had, which information we needed and which we could discard. I used the adjusted bounded boxes of each annotation to create a binary mask of where the characters are in the image. 
@@ -27,10 +29,10 @@
     The obtained Jaccard indexes after this improvement were 0.1378 for the simple model, and 0.1648 for the UNet model.
 
 
-## Figure 1: 
+### Figure 1: 
 
 [Figure showing golden mask as only 0s]("resize before mask.png")
 
-## Figure 2: 
+### Figure 2: 
 
 [Figure showing golden mask after resizing]("resize after mask.png")
